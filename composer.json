@@ -1,6 +1,7 @@
 {
     "name": "joelbarnard/php-aws-sns-push",
     "description": "Interface to handle Mobile Device SNS Pushes",
+	"version" : "1.0.0"
     "require": {
         "php": ">=5.3.0",
         "aws/aws-sdk-php": "~2.4"
